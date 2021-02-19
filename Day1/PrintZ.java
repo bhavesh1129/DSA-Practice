@@ -1,4 +1,6 @@
 //Print Z Pattern
+package Day1;
+
 import java.util.*;
 
 public class PrintZ {

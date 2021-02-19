@@ -1,4 +1,6 @@
 //Rotate A Number by K turns
+package Day1;
+
 import java.util.Scanner;
 
 public class rotateANumber {

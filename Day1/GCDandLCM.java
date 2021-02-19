@@ -1,4 +1,6 @@
 //GCD and LCM of A Number
+package Day1;
+
 import java.util.Scanner;
 
 public class GCDandLCM {

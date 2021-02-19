@@ -1,4 +1,6 @@
 //Count the Number of Digits in a Number
+package Day1;
+
 import java.util.Scanner;
 
 public class CountDigits {

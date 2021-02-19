@@ -1,4 +1,6 @@
-//Pythagorus Triplet
+////Pythagorus Triplet
+package Day1;
+
 import java.util.Scanner;
 
 public class PythagorusTriplet {

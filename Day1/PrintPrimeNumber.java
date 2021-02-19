@@ -1,4 +1,6 @@
 //Print Prime Numbers in a given interval
+package Day1;
+
 import java.util.Scanner;
 
 public class PrintPrimeNumber {

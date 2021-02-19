@@ -1,4 +1,6 @@
 //Print Whether it is Prime Number or Not
+package Day1;
+
 import java.util.Scanner;
 
 public class PrimeNumber {

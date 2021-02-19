@@ -1,3 +1,5 @@
+package Day1;
+
 //Display the Digits of a Number
 import java.util.Scanner;
 

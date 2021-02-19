@@ -1,3 +1,5 @@
+package Day1;
+
 //The Curious Case Of Benjamin Bulbs
 
 import java.util.Scanner;

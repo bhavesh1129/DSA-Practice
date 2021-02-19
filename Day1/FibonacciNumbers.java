@@ -1,3 +1,5 @@
+package Day1;
+
 //Fibonacci Numbers
 import java.util.Scanner;
 

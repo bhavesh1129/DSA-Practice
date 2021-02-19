@@ -1,4 +1,6 @@
 //Prime Factorisation of a Number
+package Day1;
+
 import java.util.Scanner;
 
 public class PrimeFactorisation {
