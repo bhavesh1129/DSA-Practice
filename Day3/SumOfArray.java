@@ -1,3 +1,4 @@
+//Sum Of Array
 package Day3;
 
 import java.util.Scanner;
