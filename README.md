@@ -1,7 +1,7 @@
 ## #DSA-Practice
 
 
-### Day1
+### [Day1](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day1)
   - Print Z
   - Is A Prime Number
   - Print Prime Number
@@ -18,7 +18,7 @@
 
 - - - -
 
-### Day2
+### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
   - Digit Frequency
   - Decimal To Any Base
   - Base To Any Decimal
@@ -30,7 +30,7 @@
 - - - -
 
 
-### Day3
+### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
   - Span Of Array 
   - Find Element In An Array 
   - Bar Chart
@@ -38,7 +38,7 @@
 
 - - - -
 
-### Day4
+### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
   - Reverse Of An Array
   - Rotate An Array
   - Inverse Of An Array
@@ -47,7 +47,7 @@
 
 - - - -
 
-### Day5
+### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
   - Binary Search
   - Ceil And Floor
   - First And Last Index
@@ -55,7 +55,7 @@
 - - - -
 
 
-### Day6
+### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
   - Print 2D Array
   - Matrix Multiplication
   - Wave Traversal (Wakanda-1)
@@ -64,13 +64,13 @@
 - - - -
 
 
-### Day7
+### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
   - End Point Of A Matrix
   - Rotate By 90 Degrees
 
 - - - -
 
-### Day8
+### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
   - RingRotate
   - DiagonalTraversal (Wakanda-2)
   - SaddlePoint
