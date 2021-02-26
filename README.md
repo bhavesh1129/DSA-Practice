@@ -1,4 +1,4 @@
-## #DSA-Practice
+## #DSA-Practice in Java from [Pepcoding](https://www.pepcoding.com/resources/online-java-foundation)
 
 ### [Day1](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day1)
   - Print Z
