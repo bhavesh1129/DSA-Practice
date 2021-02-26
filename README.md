@@ -58,8 +58,15 @@
 ### Day6
   - Print 2D Array
   - Matrix Multiplication
-  - Wave Traversal(Wakanda-1)
+  - Wave Traversal (Wakanda-1)
   - Spiral Traversal
+
+- - - -
+
+
+### Day7
+  - End Point Of A Matrix
+  - Rotate By 90 Degrees
 
 - - - -
 
