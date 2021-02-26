@@ -16,6 +16,18 @@
   - Pythagorus Triplet
   - Benjamin Bulbs
 
+- - - -
+
+### Day2
+  - Digit Frequency
+  - Decimal To Any Base
+  - Base To Any Decimal
+  - Any Base To Any Base
+  - Any Base Addition
+  - Any Base Subtraction
+  - Any Base Multiplication
+
+- - - -
 
 
 
