@@ -47,6 +47,12 @@
 
 - - - -
 
+### Day5
+  - Binary Search
+  - Ceil And Floor
+  - First And Last Index
+
+- - - -
 
 
 
