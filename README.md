@@ -38,7 +38,7 @@
 
 - - - -
 
-### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
+### [Day4](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day4)
   - Reverse Of An Array
   - Rotate An Array
   - Inverse Of An Array
