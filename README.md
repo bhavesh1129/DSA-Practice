@@ -1,5 +1,7 @@
 ## #DSA-Practice in Java from [Pepcoding](https://www.pepcoding.com/resources/online-java-foundation)
 
+  <img src="https://github.com/bhavesh1129/DSA-Practice/blob/main/DSA.jpeg" width="1000" height="500"/>
+
 ### [Day1](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day1)
   - Print Z
   - Is A Prime Number
