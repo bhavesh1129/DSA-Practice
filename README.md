@@ -30,7 +30,7 @@
 - - - -
 
 
-### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
+### [Day3](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
   - Span Of Array 
   - Find Element In An Array 
   - Bar Chart
