@@ -70,7 +70,7 @@
 
 - - - -
 
-### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
+### [Day8](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day8)
   - RingRotate
   - DiagonalTraversal (Wakanda-2)
   - SaddlePoint
