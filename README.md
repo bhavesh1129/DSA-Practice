@@ -55,6 +55,14 @@
 - - - -
 
 
+### Day6
+  - Print 2D Array
+  - Matrix Multiplication
+  - Wave Traversal(Wakanda-1)
+  - Spiral Traversal
+
+- - - -
+
 
 
 
