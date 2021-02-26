@@ -70,6 +70,12 @@
 
 - - - -
 
+### Day8
+  - RingRotate
+  - DiagonalTraversal (Wakanda-2)
+  - SaddlePoint
+
+- - - -
 
 
 
