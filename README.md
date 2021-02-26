@@ -18,7 +18,7 @@
 
 - - - -
 
-### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
+### [Day2](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day2)
   - Digit Frequency
   - Decimal To Any Base
   - Base To Any Decimal
