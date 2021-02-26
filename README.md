@@ -1,6 +1,22 @@
 ## #DSA-Practice
 
 
+### Day1
+  - Print Z
+  - Is A Prime Number
+  - Print Prime Number
+  - Fibonacci Numbers
+  - Count Digits
+  - Digits In Number
+  - Reverse of A Number
+  - Inverse Of A Number
+  - Rotate a Number
+  - GCD and LCM
+  - Prime Factorisation
+  - Pythagorus Triplet
+  - Benjamin Bulbs
+
+
 
 
 
