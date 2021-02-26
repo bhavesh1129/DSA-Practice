@@ -55,7 +55,7 @@
 - - - -
 
 
-### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
+### [Day6](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day6)
   - Print 2D Array
   - Matrix Multiplication
   - Wave Traversal (Wakanda-1)
