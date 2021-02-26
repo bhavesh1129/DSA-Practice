@@ -47,7 +47,7 @@
 
 - - - -
 
-### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
+### [Day5](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day5)
   - Binary Search
   - Ceil And Floor
   - First And Last Index
