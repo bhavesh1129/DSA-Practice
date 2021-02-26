@@ -30,6 +30,16 @@
 - - - -
 
 
+### Day3
+  - Span Of Array 
+  - Find Element In An Array 
+  - Bar Chart
+  - Sum Of Array
+
+- - - -
+
+
+
 
 
 
