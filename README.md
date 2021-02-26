@@ -64,7 +64,7 @@
 - - - -
 
 
-### [Day9](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day9)
+### [Day7](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day7)
   - End Point Of A Matrix
   - Rotate By 90 Degrees
 
