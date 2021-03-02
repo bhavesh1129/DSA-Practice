@@ -90,3 +90,20 @@
   - Learn about Interning And Immutability of String
   - And also study about Stringbuilder, Its Usage And Performance.
 
+- - - -
+
+
+### [Day11](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day11)
+  - Toggle Case
+
+- - - - 
+
+### [Day12](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day12)
+  - Maximum Occurence of an Alphabet
+- - - - 
+
+### [Day13](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day13)
+  - ASCII Difference of a String
+  - Permutations Of A String
+
+- - - - 
