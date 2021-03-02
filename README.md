@@ -105,5 +105,6 @@
 ### [Day13](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day13)
   - ASCII Difference of a String
   - Permutations Of A String
+  - Remove Prime from the ArrayList
 
 - - - - 
