@@ -127,4 +127,5 @@
 
 ### [Day17](https://github.com/bhavesh1129/DSA-Practice/tree/main/Day17)
   - Print Factorial of a Number Using Recursion
+  - Print Power Linear Using Recursion
 
